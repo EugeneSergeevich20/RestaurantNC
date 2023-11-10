@@ -23,6 +23,7 @@ public class ControllerMenu {
 
         menuService.getCategory();
         menuService.getDish();
+        menuService.getDring();
         return "complited";
     }
 }
